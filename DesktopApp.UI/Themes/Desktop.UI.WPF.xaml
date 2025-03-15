@@ -3,5 +3,7 @@
     <ResourceDictionary.MergedDictionaries>
         <ResourceDictionary Source="/DesktopApp.UI;component/Themes/Styles/ButtonStyles.xaml"/>
         <ResourceDictionary Source="/DesktopApp.UI;component/Themes/Styles/DropDownStyles.xaml"/>
+        <ResourceDictionary Source="/DesktopApp.UI;component/Themes/Styles/DarkTheme.xaml"/>
+        <ResourceDictionary Source="/DesktopApp.UI;component/Themes/Styles/LightTheme.xaml"/>
     </ResourceDictionary.MergedDictionaries>
 </ResourceDictionary>
